@@ -1,0 +1,11 @@
+Unban Command :
+ts unban banid -- Entbannt einen spieler
+ts anticipher -- Scannt den server für einen Cipher
+ts reload -- reloaded die banlist
+ts banlistreg -- Regeneriert die banlist 
+
+Bypass:
+add_ace identifier.steam:steamid TropicShield.Bypass allow #bypass via steam
+add_ace group.mod TropicShield.Bypass allow #bypass via group mod
+add_ace group.admin TropicShield.Bypass allow #bypass via group admin
+add_ace group.support TropicShield.Bypass allow #bypass via group support
