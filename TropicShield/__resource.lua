@@ -2,7 +2,7 @@ fx_version 'adamant'
 games {'gta5'}
 
 author 'TropicShield'
-description 'Anticheat von TropicLife'
+description 'Anticheat of TropicLife'
 lua54 'yes'
 
 shared_scripts {
